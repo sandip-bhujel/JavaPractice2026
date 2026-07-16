@@ -1,4 +1,4 @@
-public class PracticeDay01 {
+public class VariablesPracticeDay01 {
     public static void main(String []args) {
 
         //variables
